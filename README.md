@@ -157,3 +157,12 @@ Para cada posición en el string de entrada, los reconocedores se aplican en est
 **Entrada:** `if myVar == 3.14 else 'ok'`
 
 <img width="448" height="527" alt="image" src="https://github.com/user-attachments/assets/07149ac7-71bb-4ad8-ac52-1d5b47ff387f" />
+
+---
+
+## Integrantes
+Sergio Emmanuel Ramírez Anaya, A01641886
+Diego Alejandro Calvario Aceves, A01642806
+Santiago López Campos, A01643411
+Gael Venegas Gómez, A01642913
+Diego Rodriguez Romero, A01741413

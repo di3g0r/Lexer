@@ -21,7 +21,7 @@ Al finalizar produce tres salidas:
 Requiere Python 3.8+ y únicamente la biblioteca estándar (`re`). Sin dependencias externas.
 
 ```bash
-python triton_lexer_v2.py
+python lexer.py
 ```
 
 ---
